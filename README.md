@@ -1,6 +1,8 @@
-GCEK's Smart Campus App
-PlayStore Link : https://play.google.com/store/apps/details?id=com.gcek.it
-Screenshorts:
+#GCEK's Smart Campus App
+
+## PlayStore Link : https://play.google.com/store/apps/details?id=com.gcek.it
+
+### Screenshorts:
 
 ![WhatsApp Image 2023-08-15 at 03 20 51](https://github.com/nandanmagdum/GCEK-SmartCampus-App/assets/93419769/f529b64e-d646-45a1-93a5-4ad0a245afe0)
 ![Screenshot_2023_0815_084216](https://github.com/nandanmagdum/GCEK-SmartCampus-App/assets/93419769/4574ac3c-9c11-41a5-afda-0cf39dad60b1)
